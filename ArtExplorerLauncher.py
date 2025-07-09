@@ -1173,7 +1173,7 @@ class GameLauncher:
 
     def launch_shape_racer(self):
         ShapeRacerGame(tk.Toplevel(self.master), self)
-
+#awesome
     def launch_form_flipper(self):
         FormFlipperGame(tk.Toplevel(self.master), self)
 
